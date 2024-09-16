@@ -6,6 +6,7 @@
 - 🤔 I’m looking for help with confidently writing my own code.
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I love cookies.
+- 
 -->
 <!--
 
