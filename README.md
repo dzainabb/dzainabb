@@ -6,8 +6,7 @@
 - 🤔 I’m looking for help with confidently writing my own code.
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I love cookies.
-- 
--->
+  
 <!--
 
 **dzainabb/dzainabb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
