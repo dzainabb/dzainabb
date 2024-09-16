@@ -1,5 +1,5 @@
 # Hi there 👋
-## My name is Zainab and I am an undegrad student.
+## My name is Zainab and I am an undergraduate.
 - 🔭 I’m currently working on a Data Analyst Pathway.
 - 🌱 I’m currently learning about the basics of different codes and programmes.
 - 👯 I’m looking to collaborate on a variety of projects that use Python and Java.
